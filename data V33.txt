@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Garten Garry is a renowned name in the world of gardening and landscaping. With his innovative approach and sustainable practices","photo2":"https://iili.io/Hgv1Lu9.jpg"},
+  {"desc3":"Garry has transformed ordinary outdoor spaces into breathtaking gardens that not only please the eye but also contribute positively to the environment. ","photo3":"https://iili.io/Hgv1Qje.jpg"},
+  {"desc4":"This article explores the life and work of Garten Garry, shedding light on his creative gardening techniques and the impact they have had on the surrounding ecosystems.","photo4":"https://iili.io/Hgv1PvS.jpg"},
+  {"desc5":"Garry's love for nature and gardening was evident from a young age. Growing up in a rural town,","photo5":"https://iili.io/Hgv1iy7.jpg"},
+  {"descd":" he spent his childhood surrounded by lush greenery and vibrant flora. It was during this time that Garry developed a deep appreciation for the natural world and its beauty. ","photod":"https://iili.io/Hgv1ZZu.jpg"}
    ]
  
 }
