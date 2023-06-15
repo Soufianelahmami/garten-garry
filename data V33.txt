@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"Cameraman Mod GMOD","package_name":"com.cameramanmod.garrycameraman","icon":"https://play-lh.googleusercontent.com/mpama0l9i_JAfnBOIGzXgYMs6M8ft2Ge0gZUuDdfVi3dDr99NxCQRe28FGaOXN6FHA=w240-h480-rw"},
+  {"name":"alphabet lore for garry's mod","package_name":"com.alphabetlore.garryloregame","icon":"https://play-lh.googleusercontent.com/xqmJ66L85_PL6tYshgJPtGxiQIUS49RS4SPolPmEAqcL3w-pSL5Omck7LdtrqF_I9zFS=w240-h480-rw"},
+  {"name":"FNAF mod for Gmod","package_name":"com.fnaf.gamemod","icon":"https://play-lh.googleusercontent.com/5bEWCwVBAnD7GM5OyjCGJQcnG-nLetXmwyRKEmkf5WsGP0WwSuTDv7G7j_TvTGiAOqHH=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
